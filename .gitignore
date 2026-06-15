@@ -37,3 +37,5 @@
 
 # Assets
 *.asset
+!Assets/**/Terrain_Layers/**/*.asset
+!Assets/**/*terrain*.asset
