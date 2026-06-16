@@ -38,3 +38,7 @@
 # Assets
 *.asset
 !Assets/Silver_Cats/**/*.asset
+!Assets/Silver_Cats/**/*.png
+!Assets/Silver_Cats/**/*.jpg
+!Assets/Silver_Cats/**/*.tga
+!Assets/Silver_Cats/**/*.mat
